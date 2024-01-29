@@ -1,6 +1,6 @@
 import './style.css';
 
-import './topics/05-clases';
+import './topics/08-optional-chaining';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
